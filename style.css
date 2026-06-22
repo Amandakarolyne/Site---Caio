@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif; 
+    background-color: #e294e9;
+    margin: 0;
+    text-align: center; 
+}
+
+header {
+    background-color: #bc30e7;
+    color: rgb(10, 10, 10);
+    padding: 30px;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 8px 0;
+}
